@@ -1,6 +1,10 @@
 # Active-Directory-Attack-Detect-Defend
 Pentesting Active Directory
 
+## AD Kill Chain
+![image](https://github.com/ZyberPatrol/Active-Directory/assets/117040617/396dc8c2-5799-48aa-a3a7-21e2f820efd9)
+
+
 ## Summary
 This document was designed to be a useful, informational asset for those looking to understand the specific tactics, techniques, and procedures (TTPs) attackers are leveraging to compromise active directory and guidance to mitigation, detection, and prevention. And understand Active Directory Kill Chain Attack and Modern Post Exploitation Adversary Tradecraft Activity.
 
