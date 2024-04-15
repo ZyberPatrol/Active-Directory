@@ -54,7 +54,7 @@ This document was designed to be a useful, informational asset for those looking
 * [RastaMouse LAPS Part 1 & 2](https://rastamouse.me/tags/laps/)
 
 ### AppLocker
-* [AppLocker Config]([https://rastamouse.me/blog/applocker/](https://book.hacktricks.xyz/windows-hardening/authentication-credentials-uac-and-efs))
+* [AppLocker Config](https://book.hacktricks.xyz/windows-hardening/authentication-credentials-uac-and-efs))
 
 ### Active Directory Federation Services
 * [118 Attacking ADFS Endpoints with PowerShell Karl Fosaaen](https://www.youtube.com/watch?v=oTyLdAUjw30)
